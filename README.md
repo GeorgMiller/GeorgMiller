@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgMiller
-- 👀 I’m interested in Reinforcement Learning and Meta Learning
-- 🌱 I’m currently learning Quantum Computing
-- 💞️ I’m looking to collaborate on anything RL related
+- 👀 I’m interested in Reinforcement Learning, Meta Learning and Quantum Computing
+- 🌱 I’m currently researching in the area of Quantum Reinforcement Learning
+- 💞️ I’m looking to collaborate on anything (Q)RL related
 - 📫 How to reach me: krusegeorg@gmail.com
 
 <!---
